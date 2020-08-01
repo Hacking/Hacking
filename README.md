@@ -12,7 +12,7 @@
 ```javascript
 const callum = {
   code: ['C#', 'Python', 'HTML', 'CSS'],
-  environments: ['Visual Studio', 'VS Code', 'Eclipse, Atom'],
+  environments: ['Atom', 'VS Code', 'Visual Studio', 'Eclipse'],
   interests: ['photography', 'gaming', 'netflix'],
 }
 ```
