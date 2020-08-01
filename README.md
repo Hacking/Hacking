@@ -11,10 +11,9 @@
 
 ```javascript
 const callum = {
-  pronouns: "he" | "him",
-  code: [C#, Python, HTML, CSS],
-  environments: [Visual Studio, VS Code, Eclipse, Atom],
-  interests: ["photography", "gaming", "netflix"],
+  code: ['C#', 'Python', 'HTML', 'CSS'],
+  environments: ['Visual Studio', 'VS Code', 'Eclipse, Atom'],
+  interests: ['photography', 'gaming', 'netflix'],
 }
 ```
 
