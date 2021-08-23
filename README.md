@@ -1,6 +1,6 @@
 <h2> Hi, I'm Callum! <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="20"></h2>
 <img align='right' src="https://media.giphy.com/media/X74GovIqGMZYxXblCL/giphy.gif" width="230">
-<p><em>Computer Science Student at <a href="https://www.hull.ac.uk/">University of Hull</a></br>Former Owner/Administrator at <a href="https://www.mctrades.org">MCTrades</a> 
+<p><em>Computer Science Graduate from <a href="https://www.hull.ac.uk/">University of Hull</a></br>Former Owner/Administrator at <a href="https://www.mctrades.org">MCTrades</a> 
 </em></p>
 
 [![Twitter: smtp](https://img.shields.io/twitter/follow/smtp?style=social)](https://twitter.com/smtp)
